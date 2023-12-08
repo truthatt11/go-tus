@@ -1,8 +1,8 @@
 package leveldbstore
 
 import (
-	"github.com/eventials/go-tus"
 	"github.com/syndtr/goleveldb/leveldb"
+	"github.com/truthatt11/go-tus"
 )
 
 type LeveldbStore struct {

@@ -3,7 +3,7 @@ package memorystore
 import (
 	"sync"
 
-	"github.com/eventials/go-tus"
+	"github.com/truthatt11/go-tus"
 )
 
 // MemoryStore implements an in-memory Store.
